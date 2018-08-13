@@ -39,6 +39,14 @@ body {
   font-weight: 100;
   position: absolute;
   left: 50px;
+
+  
+}
+
+#splits-container ol {
+  height: 572px;
+  padding-right: 20px;
+  overflow: auto;
 }
 
 #splits-container li {
